@@ -1,4 +1,4 @@
-## YouTube High Resolution
+## Max Resolution for Youtube
 [More details in support thread]()  
 Unlock 2K resolution on all devices and 4K on supported ones.
 

@@ -1,9 +1,9 @@
-MODID=youtube-high-resolution
+MODID=max-resolution-youtube
 PROPFILE=true
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     YouTube High Resolution v1    "
+  ui_print "     Max Resolution for YouTube v1    "
   ui_print "*******************************"
 }
 
